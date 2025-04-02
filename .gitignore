@@ -1,0 +1,2 @@
+embedded_verilog/*/*.out
+embedded_verilog/*/*.vcd
