@@ -1,2 +1,6 @@
 embedded_verilog/*/*.out
 embedded_verilog/*/*.vcd
+
+grpc/ros2_ws/build  
+grpc/ros2_ws/install
+grpc/ros2_ws/log
