@@ -1,0 +1,4 @@
+sample_srv_interfaces/Vector vector
+float64 multiplier
+---
+sample_srv_interfaces/Vector result
